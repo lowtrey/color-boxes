@@ -4,17 +4,8 @@ import Box from './Box';
 class BoxContainer extends React.Component {
     render() {
         return (
-            <div>
-                <Box />
-                <Box />
-                <Box />
-                <Box />
-                <Box />
-                <Box />
-                <Box />
-                <Box />
-                <Box />
-                <Box />
+            <div >
+                
             </div>
         )
     }
